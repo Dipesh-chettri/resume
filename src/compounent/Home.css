@@ -1,0 +1,14 @@
+.home{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-left: 10%;
+    color: white;
+    position: fixed;
+
+  
+}
+.icon{
+    font-weight: 200;
+    font-size: 40px;
+}

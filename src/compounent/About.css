@@ -1,0 +1,48 @@
+.nav{
+    width: 100%;
+    margin: auto;
+    font-size: 27px;
+    font-weight: 700;
+    color: bisque;
+    background-color: rgb(28, 28, 71);
+    text-align: left;
+}
+.name{
+    text-align: center;
+}
+.about-container{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+     background-color: rgb(28, 28, 71);
+     
+     color: rgb(245, 222, 193);
+     padding-bottom: 2%;
+}
+.about-container h3 {
+    margin: 0px !important;
+    font-weight: 600;
+    font-size: 16px;
+}
+.about-container p{
+    margin-top: 0px !important;
+    font-size: 17px;
+    font-weight: 400;
+}
+.main{
+    background-color: rgb(28, 28, 71);
+}
+a{
+   color: rgb(245, 222, 193);
+   padding-top: 20px;
+   border: hidden;
+    
+    
+}
+
+
+.linkdin{
+    border: 1px solid wheat;
+    border: hidden;
+}
+

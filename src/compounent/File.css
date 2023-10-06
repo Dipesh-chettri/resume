@@ -1,0 +1,74 @@
+.containe-file{
+    width: 80%;
+    margin: auto;
+    text-align: left;
+    padding-bottom: 20%;
+    overflow: hidden;
+    
+}
+ul{
+    list-style: none;
+    text-align: left;
+}
+ul li{
+    border-bottom: 1px solid white;
+    padding-bottom: 1%;
+    margin:10px;
+    
+}
+
+ li :hover{
+    touch-action: double-tap-zoom;
+    color: aqua;
+}
+::after{
+    padding: 0px;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 4%;
+}
+.left {
+   
+    color: white;
+    display: flex;
+}
+
+.right  {
+    border-radius:50% ;
+    
+    width: 2vw;
+    height: 4vh;
+    border:1px solid white ;
+    text-align: center;
+    color: white;
+}
+.rxcross{
+  
+    color: white;
+    /* margin-right: 4px; */
+}
+ .div {
+    border-radius:50% ;
+    padding: 5%;
+    border:1px solid white ;
+    margin:5px;
+    padding-top: 5px;
+}
+
+
+.right-div{
+    border-radius:50% ;
+    margin-top: 4px;
+    width: 25px;
+   height: 25px;
+    border:1px solid white ;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+} 
+.li-list{
+    border-bottom: 1px solid white !important;
+    list-style: none;
+}
